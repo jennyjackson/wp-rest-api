@@ -1,8 +1,6 @@
 # WordpPress rest api 定制化插件
 
-## wordpress插件修改版
-
-来源：
+## 原版
 
 [https://github.com/iamxjb/wp-rest-api-for-app](https://github.com/iamxjb/wp-rest-api-for-app)
 
